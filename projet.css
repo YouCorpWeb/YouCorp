@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #92743f;
+}
+
+#navigation {
+    background-color: blue; 
+    border-radius: 3px;
+    color: white;
+    padding: 10px 100px;
+    text-decoration: none;
+}
+
+h1 {
+    color: red;
+}
+
+li {
+    display: inline;
+    margin: 0 5px;
+}
+
+a.social {
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px;
+}
